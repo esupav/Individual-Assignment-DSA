@@ -1,4 +1,4 @@
-
+Individual assignment question num 1
 // c++ program to find the smallest number in an array 
 #include<iostream>
 using namespace std;
