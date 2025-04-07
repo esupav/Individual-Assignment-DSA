@@ -1,4 +1,4 @@
-# Smallest-of-an-array
+# Smallest Number-in-array
 ## Student information
 **Name**:Esubalew Kifle 
 **Student Id**:Trns-0056/24
