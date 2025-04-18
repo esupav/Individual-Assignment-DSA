@@ -1,8 +1,9 @@
+#Second and third largest number in array
 ## Student Information
 
-Name: Esubalew Kifle
-Student ID: TRNS-0056/24
-Course: Data Structure and Algorithm
+**Name**: Esubalew Kifle
+**Student ID**: TRNS-0056/24
+**Course**: Data Structure and Algorithm
 
 ## Algorithm
 
